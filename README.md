@@ -5,10 +5,6 @@ A scuffed exploit script for mass scanning Symfony Fragment that uses default se
 
  $~ usage: python exploit.py urls.txt output.txt
 
-## Requirements
-
-      PHP available on path (Tried using python library but hash output is different for some reason.)
-
 ## Reference
 
       https://www.ambionics.io/blog/symfony-secret-fragment
